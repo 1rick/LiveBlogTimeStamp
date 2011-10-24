@@ -1,1 +1,1 @@
-Just a simple TextMate snippet to use when live-blogging an event. Press **ll+TAB** and the time will be automatically inserted as an anchor link for that particular update. 
+Just a simple TextMate snippet to use when live-blogging an event. Press **ll+TAB** (that's lowercase 'L' x 2) and the time will be automatically inserted as an anchor link for that particular update. 
